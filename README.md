@@ -11,11 +11,3 @@ Budget Management: Set budgets for different expense categories and receive real
 Interactive Charts and Reports: Visualize financial data through interactive charts and reports to gain valuable insights.
 Cross-Platform Compatibility: Responsive design for seamless usability on various devices, from desktops to smartphones.
 
-Contributing
-
-We welcome contributions from the community to enhance Money Track. If you'd like to contribute, please follow these guidelines:
-Fork the repository on GitHub.
-Create a new branch with a descriptive name for your feature or bug fix.
-Make your changes and commit them with clear and concise messages.
-Push your changes to your forked repository.
-Submit a pull request, explaining the changes and improvements you've made.
